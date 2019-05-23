@@ -1,0 +1,10 @@
+.title-grid{
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 90% 10%;
+}
+.title-grid a:hover{
+    background-color: red;
+}
+.title-grid a img{height: 16px;
+    width: 16px;}

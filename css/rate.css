@@ -1,0 +1,21 @@
+
+
+.rate {
+    display: inline-block;
+    font-size: 32px;
+    height: 33px;
+}
+
+.rate-base-layer
+{
+    color: #aaa;
+}
+.rate-hover-layer
+{
+    color: orange;
+}
+
+.rate-select-layer
+{
+    color: orange;
+}

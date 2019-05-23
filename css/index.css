@@ -1,0 +1,20 @@
+
+/* Add padding to containers*/
+.connection {
+    padding: 16px;
+}
+
+a:link, a:visited {
+    background-color: #4CAF50;
+    color: white;
+    font-size: large;
+    padding: 18px 35px;
+    margin: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+ }
+
+a:hover {
+    opacity: 0.8;
+}
